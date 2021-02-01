@@ -4,5 +4,5 @@ the statergy of manage branch.
 Test branch merge again.
 git debug.
 push dev branch
-
+这是在dev分支添加的东西
 branch feature-test
